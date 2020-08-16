@@ -1,0 +1,4 @@
+include ':ui-components'
+include ':main'
+include ':app'
+rootProject.name = "rbk_test"

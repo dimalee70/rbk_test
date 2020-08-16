@@ -1,0 +1,1 @@
+/Users/dmitriy/AndroidStudioProjects/rbk_test/buildSrc/build/classes/kotlin/main/Config.class:/Users/dmitriy/AndroidStudioProjects/rbk_test/buildSrc/build/classes/kotlin/main/Deps.class:/Users/dmitriy/AndroidStudioProjects/rbk_test/buildSrc/build/classes/kotlin/main/Versions.class
